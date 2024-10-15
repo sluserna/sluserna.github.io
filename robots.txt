@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sluserna.github.io/sitemap.html.gz
+Sitemap: https://sluserna.github.io/app/sitemap.html.gz
+Sitemap: https://sluserna.github.io/assets/sitemap.html.gz
+Sitemap: https://sluserna.github.io/css/sitemap.html.gz
+Sitemap: https://sluserna.github.io/includes/sitemap.html.gz
+Sitemap: https://sluserna.github.io/item/sitemap.html.gz
+Sitemap: https://sluserna.github.io/src/sitemap.html.gz
